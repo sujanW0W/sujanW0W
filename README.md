@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujanW0W
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
