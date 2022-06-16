@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sujan_wow" target="blank"><img src="https://img.shields.io/twitter/follow/sujan_wow?logo=twitter&style=for-the-badge" alt="sujan_wow" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**'
+- 🌱 I’m currently learning **MERN**.
 - 👀 I’m interested in Programming.
 
 - 📫 How to reach me **https://www.linkedin.com/in/sujan-maharjan-490766215/**
