@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujan Maharjan</h1>
+<h1 align="center">Hello 👋, I'm Sujan Maharjan</h1>
 <h3 align="center">An Undergraduate student persuing Bachelor's degree on Computer Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujanw0w&label=Profile%20views&color=0e75b6&style=flat" alt="sujanw0w" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**'
 - 👀 I’m interested in Programming.
-- 
+
 - 📫 How to reach me **https://www.linkedin.com/in/sujan-maharjan-490766215/**
 
 <h3 align="left">Connect with me:</h3>
