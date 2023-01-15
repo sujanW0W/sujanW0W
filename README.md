@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on the **Major Project of my Final Year of Bachelor's degree.**
 - 🌱 I’m currently learning **MERN-Full Stack Development.**
-- 👀 I’m an AI enthusiast.
+- 👀 I’m an **AI enthusiast.**
 
 - 📫 How to reach me **sujanmaharjan2010@gmail.com**
 
