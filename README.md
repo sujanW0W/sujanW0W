@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/sujan_wow" target="blank"><img src="https://img.shields.io/twitter/follow/sujan_wow?logo=twitter&style=for-the-badge" alt="sujan_wow" /></a> </p>
 
-- 🔭 I’m currently working as a **Frontend React Developer.**
-- 🌱 I’m currently learning **MERN**.
-- 👀 I’m interested in Programming.
+- 🔭 I’m currently working on the **Major Project of my Final Year of Bachelor's degree.**
+- 🌱 I’m currently learning **MERN-Full Stack Development.**.
+- 👀 I’m an AI enthusiast.
 
 - 📫 How to reach me **sujanmaharjan2010@gmail.com**
 
