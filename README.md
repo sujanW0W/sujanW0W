@@ -1,12 +1,10 @@
 <h1 align="center">Hello 👋, I'm Sujan Maharjan</h1>
-<h3 align="center">An Undergraduate student pursuing Bachelor's degree on Computer Engineering.</h3>
+<h3 align="center">A Graduate student pursuing Masters degree in Computer Science at North Dakota State University. </h3>
 
 <p align="left"> <a href="https://twitter.com/sujan_wow" target="blank"><img src="https://img.shields.io/twitter/follow/sujan_wow?logo=twitter&style=for-the-badge" alt="sujan_wow" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujanw0w&label=Profile%20views&color=0e75b6&style=flat" alt="sujanw0w" /> </p>
 
-- 🔭 I’m currently working on the **Major Project of my Final Year of Bachelor's degree.**
-- 🌱 I’m currently learning **MERN Stack Development.**
 - 👀 I’m an **AI enthusiast.**
 
 - 📫 How to reach me **sujanmaharjan2010@gmail.com**
