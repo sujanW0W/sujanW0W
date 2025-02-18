@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujanw0w&label=Profile%20views&color=0e75b6&style=flat" alt="sujanw0w" /> </p>
 
+-  🌱 I am currently learning **Machine Learning**.
+
 - 👀 I’m an **AI enthusiast.**
 
 - 📫 How to reach me **sujanmaharjan2010@gmail.com**
