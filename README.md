@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sujan Maharjan</h1>
-<h3 align="center">🎓 Computer Engineering Graduate | 💻 Software Engineer | 📚 M.S. in Computer Science @ NDSU (Spring 2025)</h3>
+<h3 align="center">🎓 Computer Engineering Graduate | 💻 Software Engineer | 📚 M.S. in Computer Science @ NDSU (2025)</h3>
 
 <p align="left"> <a href="https://twitter.com/sujan_wow" target="blank"><img src="https://img.shields.io/twitter/follow/sujan_wow?logo=twitter&style=for-the-badge" alt="sujan_wow" /></a> </p>
 
