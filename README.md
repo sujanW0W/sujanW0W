@@ -15,8 +15,7 @@ Currently, I'm diving deep into **AI**, particularly **Machine Learning** and **
 - 🤖 Deep Learning: PyTorch  
 - 🧾 LLMs & RAG Pipelines: LangChain, LangGraph, HuggingFace Transformers  
 - 🌐 Web Development: Django, REST APIs, Node.js, React, Next.js, Express.js
-- 
-- ⚙️ Tools: Git, VS Code, Kaggle, Google Colab
+- ⚙️ Tools: Git, VS Code, Docker, Kaggle, Google Colab
 
 ## 🎯 Current Focus
 
