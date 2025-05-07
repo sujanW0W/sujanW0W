@@ -9,7 +9,7 @@
 
 I'm a passionate developer and AI enthusiast with over a year of experience in software engineering. I love solving real-world problems using technology and have contributed to research and development projects in areas like **Machine Learning**, and **Web Development**.
 
-Currently, I'm diving deep into **AI**, particularly **Machine Learning** and **Deep Learning** with a special interest in  **Data Science**. I’ve worked with various tools and frameworks such as:
+Currently, I'm diving deep into **AI**, particularly **Machine Learning** and **Deep Learning**. I’ve worked with various tools and frameworks such as:
 
 - 🧠 Machine Learning: Scikit-learn, NumPy, pandas, Matplotlib, Seaborn
 - 🤖 Deep Learning: PyTorch  
