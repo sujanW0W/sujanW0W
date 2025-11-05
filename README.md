@@ -20,7 +20,7 @@ Currently, I'm diving deep into **AI**, particularly **Machine Learning** and **
 ## 🎯 Current Focus
 
 - Mastering advanced ML techniques and neural networks
-- Building GPU-accelerated models using PyTorch
+- Building GPU-accelerated models
 - Collaborating on impactful open-source and research-based projects
 
 ---
